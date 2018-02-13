@@ -1,0 +1,7 @@
+ABC132,2007,Yellow,,,Toyota,Corolla,5900
+38000,2012,Yellow,,,Honda,Civic,20000
+1YX98J,2014,Black,White,,Toyota,RAV4,25000
+MARY,2017,Dark Grey,Blue,Red,BMW,116d,55132
+RTX911,2006,Pink,White,,Ford,Focus,19000
+BBM56,0,green,white,,Suzuki,swift,4567
+GX66S,2015,white,,,Renault, Megan,17000

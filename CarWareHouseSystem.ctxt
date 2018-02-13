@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CarWareHouseSystem
+comment0.text=\r\n\ The\ CarWareHouseSystem\ class\ represents\ a\ function\ to\ run\ the\ programming\ and\ the\ interface.\r\n\ \r\n\ @author\ Xiaofen\ Pan\r\n\ @verson\ 19/10/2017\r\n
+comment1.params=
+comment1.target=CarWareHouseSystem()
+comment1.text=\r\n\ Construct\ a\ CarWareHouseSystem\ with\ new\ and\ empty\ value.\r\n
+comment2.params=
+comment2.target=void\ displayFirstMenu()
+comment2.text=\r\n\ Display\ the\ first\ Menu.\r\n
+comment3.params=
+comment3.target=void\ displaySecondMenu()
+comment3.text=\r\n\ Display\ the\ second\ Menu.\r\n
+comment4.params=
+comment4.target=void\ startSystem()
+comment4.text=\r\n\ Start\ this\ System.\r\n
+comment5.params=
+comment5.target=void\ searchCar()
+comment5.text=\r\n\ The\ first\ option\ of\ the\ first\ menu,\ to\ search\ the\ car.\r\n
+comment6.params=
+comment6.target=void\ inputCurrentYear()
+comment6.text=\r\n\ The\ method\ request\ the\ current\ year\ when\ application\ starts\ \r\n\ and\ makes\ sure\ that\ the\ correct\ data\ entered.\ \r\n
+numComments=7
